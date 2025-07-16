@@ -1,0 +1,8 @@
+Date,Product,Region,Units Sold,Price per Unit
+2024-01-01,A,North,120,10
+2024-01-02,B,South,80,20
+2024-01-03,A,East,150,10
+2024-01-04,C,West,60,25
+2024-01-05,B,North,90,20
+2024-01-06,C,East,70,25
+2024-01-07,A,South,130,10
